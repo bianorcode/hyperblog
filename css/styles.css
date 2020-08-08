@@ -2,7 +2,7 @@ body
 {
     color: black;
     text-align: center;
-    font-family: courier;
+    font-family: Arial;
     margin: 0;
     padding: 0;
 }
@@ -28,7 +28,7 @@ body
     width: 75%;
     padding: 0;
     text-align: left;
-    border: 1px solid rgb(69, 69, 70);
+    border: 1px solid rgb(150, 150, 158);
     margin: 0 auto;
 }
 #container h1
