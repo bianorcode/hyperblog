@@ -1,21 +1,42 @@
 body
 {
-    color: deeppink;
+    color: black;
     text-align: center;
     font-family: courier;
     margin: 0;
     padding: 0;
 }
 
+#cabecera
+{
+    background: rgb(47, 19, 209);
+    box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.5);
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
+}
+#cabecera #tagline
+{
+    padding: 0 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.8em;
+}
+
 #container
 {
-    width: 70%;
-    padding: 1em;
+    width: 75%;
+    padding: 0;
     text-align: left;
-    border: 1px solid deepskyblue;
+    border: 1px solid rgb(69, 69, 70);
     margin: 0 auto;
 }
 #container h1
 {
-    font-size: 35px;
+    font-size: 40px;
+}
+
+#post
+{
+    padding: 1em;
 }
