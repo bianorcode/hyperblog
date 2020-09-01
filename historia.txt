@@ -1,7 +1,2 @@
-<<<<<<< HEAD
-Master1
-Master2
-=======
 Experimento 1
 Master1
->>>>>>> 9b88287... Exp 1
